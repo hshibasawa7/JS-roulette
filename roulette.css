@@ -1,4 +1,7 @@
 
+body {
+    background-color: #cff;
+}
 div.frame {
     /*text-align: center;*/
     width: 235px;
