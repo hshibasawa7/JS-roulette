@@ -54,6 +54,7 @@ input[type="button"][disabled] {
 table#resultTable {
     border-collapse: collapse;
     border: solid 2px #339;
+    background-color: #fff;
 }
 table#resultTable tr {
     border: solid 2px #339;
